@@ -1,13 +1,14 @@
 {
-  "version": "1.0",
-  "mods": [
-    {
-      "name": "create.jar",
-      "url": "https://raw.githubusercontent.com/TUONOME/PandoraSMP-Modpack/main/mods/create.jar"
-    },
-    {
-      "name": "voicechat.jar",
-      "url": "https://raw.githubusercontent.com/TUONOME/PandoraSMP-Modpack/main/mods/voicechat.jar"
-    }
-  ]
+    "version": "1.0",
+    "mods": [
+        {
+            "name": "jei-1.21.1-neoforge-19.42.0.385.jar"
+        },
+        {
+            "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+        },
+        {
+            "name": "sodium-neoforge-0.8.13-beta.1%2Bmc1.21.1.jar"
+        }
+    ]
 }
