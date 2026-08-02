@@ -6,12 +6,36 @@
             "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
         },
         {
+            "name": "immersive_paintings-0.6.1+1.19.2-forge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/immersive_paintings-0.6.1+1.19.2-forge.jar"
+        },
+        {
             "name": "jei-1.21.1-neoforge-19.42.0.385.jar",
             "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/jei-1.21.1-neoforge-19.42.0.385.jar"
         },
         {
             "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
             "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+        },
+        {
+            "name": "replanter-1.19.2-1.4.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/replanter-1.19.2-1.4.jar"
+        },
+        {
+            "name": "ShinyHorses-1.19-1.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/ShinyHorses-1.19-1.2.jar"
+        },
+        {
+            "name": "Smooth+Swapping-1.19.2-1.0.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/Smooth+Swapping-1.19.2-1.0.2.jar"
+        },
+        {
+            "name": "themissingvillages-2.0.0-1.19.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/themissingvillages-2.0.0-1.19.2.jar"
+        },
+        {
+            "name": "voicechat-forge-1.19.2-2.4.12.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/voicechat-forge-1.19.2-2.4.12.jar"
         }
     ]
 }
