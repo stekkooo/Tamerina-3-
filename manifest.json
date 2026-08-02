@@ -2,6 +2,10 @@
     "version": "1.0",
     "mods": [
         {
+            "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+        },
+        {
             "name": "jei-1.21.1-neoforge-19.42.0.385.jar",
             "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/jei-1.21.1-neoforge-19.42.0.385.jar"
         },
