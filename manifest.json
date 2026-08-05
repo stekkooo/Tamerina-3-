@@ -2,40 +2,272 @@
     "version": "1.0",
     "mods": [
         {
-            "name": "appleskin-neoforge-mc1.21-3.0.9.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar"
+            "name": "adorabuild-structures-2.11.0-neoforge-1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/adorabuild-structures-2.11.0-neoforge-1.21.11.jar"
         },
         {
-            "name": "immersive_paintings-0.6.1+1.19.2-forge.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/immersive_paintings-0.6.1+1.19.2-forge.jar"
+            "name": "appleskin-neoforge-mc1.21.11-3.0.8.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/appleskin-neoforge-mc1.21.11-3.0.8.jar"
         },
         {
-            "name": "jei-1.21.1-neoforge-19.42.0.385.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/jei-1.21.1-neoforge-19.42.0.385.jar"
+            "name": "bclib-21.11.4.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/bclib-21.11.4.jar"
         },
         {
-            "name": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+            "name": "BetterEnd-21.11.5.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/BetterEnd-21.11.5.jar"
         },
         {
-            "name": "replanter-1.19.2-1.4.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/replanter-1.19.2-1.4.jar"
+            "name": "bib-death-chest-0.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/bib-death-chest-0.2.jar"
         },
         {
-            "name": "ShinyHorses-1.19-1.2.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/ShinyHorses-1.19-1.2.jar"
+            "name": "BiomesOPlenty-neoforge-1.21.11-21.11.0.32.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/BiomesOPlenty-neoforge-1.21.11-21.11.0.32.jar"
         },
         {
-            "name": "Smooth+Swapping-1.19.2-1.0.2.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/Smooth+Swapping-1.19.2-1.0.2.jar"
+            "name": "BridgingMod-2.6.4+1.21.11.neoforge-release.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/BridgingMod-2.6.4+1.21.11.neoforge-release.jar"
         },
         {
-            "name": "themissingvillages-2.0.0-1.19.2.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/themissingvillages-2.0.0-1.19.2.jar"
+            "name": "carryon-neoforge-1.21.11-2.9.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/carryon-neoforge-1.21.11-2.9.2.jar"
         },
         {
-            "name": "voicechat-forge-1.19.2-2.4.12.jar",
-            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/voicechat-forge-1.19.2-2.4.12.jar"
+            "name": "chat_heads-1.2.5-neoforge-1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/chat_heads-1.2.5-neoforge-1.21.11.jar"
+        },
+        {
+            "name": "chestsearchbar-neoforge-1.21.11-1.7.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/chestsearchbar-neoforge-1.21.11-1.7.0.jar"
+        },
+        {
+            "name": "Chunky-NeoForge-1.4.54.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/Chunky-NeoForge-1.4.54.jar"
+        },
+        {
+            "name": "citresewn-continuation-1.2.2-fork.6+1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/citresewn-continuation-1.2.2-fork.6+1.21.11.jar"
+        },
+        {
+            "name": "cloth-config-21.11.153-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/cloth-config-21.11.153-neoforge.jar"
+        },
+        {
+            "name": "corpse-neoforge-1.21.11-1.1.16.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/corpse-neoforge-1.21.11-1.1.16.jar"
+        },
+        {
+            "name": "CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/CreativeCore_NEOFORGE_v2.14.10_mc1.21.11.jar"
+        },
+        {
+            "name": "cristellib-neoforge-1.21.11-3.1.7.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/cristellib-neoforge-1.21.11-3.1.7.jar"
+        },
+        {
+            "name": "cupboard-1.21.11-3.5.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/cupboard-1.21.11-3.5.jar"
+        },
+        {
+            "name": "curios-neoforge-14.0.0+1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/curios-neoforge-14.0.0+1.21.11.jar"
+        },
+        {
+            "name": "dungeons-and-taverns-v5.1.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/dungeons-and-taverns-v5.1.0.jar"
+        },
+        {
+            "name": "dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/dynamiclights-v1.9.3-mc1.17-26.2.9-mod.jar"
+        },
+        {
+            "name": "effecttimerplus-neoforge-2.2.7+1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/effecttimerplus-neoforge-2.2.7+1.21.11.jar"
+        },
+        {
+            "name": "emotecraft-neoforge-for-MC1.21.11-3.2.0-b.build.159.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/emotecraft-neoforge-for-MC1.21.11-3.2.0-b.build.159.jar"
+        },
+        {
+            "name": "fast-ip-ping-v1.0.11-mc1.21.11-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/fast-ip-ping-v1.0.11-mc1.21.11-neoforge.jar"
+        },
+        {
+            "name": "ferritecore-8.2.0-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/ferritecore-8.2.0-neoforge.jar"
+        },
+        {
+            "name": "freecam-neoforge-1.4.0+mc1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/freecam-neoforge-1.4.0+mc1.21.11.jar"
+        },
+        {
+            "name": "geckolib-neoforge-1.21.11-5.4.5.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/geckolib-neoforge-1.21.11-5.4.5.jar"
+        },
+        {
+            "name": "GlitchCore-neoforge-1.21.11-21.11.0.4.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/GlitchCore-neoforge-1.21.11-21.11.0.4.jar"
+        },
+        {
+            "name": "HangGlider-v21.11.0-mc1.21.11-NeoForge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/HangGlider-v21.11.0-mc1.21.11-NeoForge.jar"
+        },
+        {
+            "name": "ImmediatelyFast-NeoForge-1.14.3+1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/ImmediatelyFast-NeoForge-1.14.3+1.21.11.jar"
+        },
+        {
+            "name": "inventorysorter-1.21.11-24.0.28.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/inventorysorter-1.21.11-24.0.28.jar"
+        },
+        {
+            "name": "invhistory-neoforge-1.21.11-1.0.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/invhistory-neoforge-1.21.11-1.0.0.jar"
+        },
+        {
+            "name": "justzoom_neoforge_2.1.3_MC_1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/justzoom_neoforge_2.1.3_MC_1.21.11.jar"
+        },
+        {
+            "name": "konkrete_neoforge_1.9.18_MC_1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/konkrete_neoforge_1.9.18_MC_1.21.11.jar"
+        },
+        {
+            "name": "kotlinforforge-6.3.0-all.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/kotlinforforge-6.3.0-all.jar"
+        },
+        {
+            "name": "KotlinLangForge-2.12.2-k2.4.10-3.1+neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/KotlinLangForge-2.12.2-k2.4.10-3.1+neoforge.jar"
+        },
+        {
+            "name": "libIPN-neoforge-1.21.11-6.6.3.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/libIPN-neoforge-1.21.11-6.6.3.jar"
+        },
+        {
+            "name": "lithostitched-1.7.2-neoforge-21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/lithostitched-1.7.2-neoforge-21.11.jar"
+        },
+        {
+            "name": "mcw-bridges-3.1.2-mc1.21.11neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/mcw-bridges-3.1.2-mc1.21.11neoforge.jar"
+        },
+        {
+            "name": "modernfix-neoforge-5.21.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/modernfix-neoforge-5.21.0.jar"
+        },
+        {
+            "name": "MoogsEndStructures-1.21-2.0.3.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/MoogsEndStructures-1.21-2.0.3.jar"
+        },
+        {
+            "name": "moogs_structures-neoforge-1.21.11-3.0.3.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/moogs_structures-neoforge-1.21.11-3.0.3.jar"
+        },
+        {
+            "name": "Nullscape_1.21.x_v1.2.17.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/Nullscape_1.21.x_v1.2.17.jar"
+        },
+        {
+            "name": "PlayerAnimationLibNeoforge-1.1.9+mc.1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/PlayerAnimationLibNeoforge-1.1.9+mc.1.21.11.jar"
+        },
+        {
+            "name": "PlayerRevive_NEOFORGE_v2.1.0_mc1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/PlayerRevive_NEOFORGE_v2.1.0_mc1.21.11.jar"
+        },
+        {
+            "name": "PuzzlesLib-v21.11.13-mc1.21.11-NeoForge (1).jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/PuzzlesLib-v21.11.13-mc1.21.11-NeoForge (1).jar"
+        },
+        {
+            "name": "PuzzlesLib-v21.11.13-mc1.21.11-NeoForge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/PuzzlesLib-v21.11.13-mc1.21.11-NeoForge.jar"
+        },
+        {
+            "name": "ResourcefulLib-neoforge-1.21.11-3.11.1.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/ResourcefulLib-neoforge-1.21.11-3.11.1.jar"
+        },
+        {
+            "name": "resource_gamma_util-neoforge-1.21.11-1.4.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/resource_gamma_util-neoforge-1.21.11-1.4.0.jar"
+        },
+        {
+            "name": "sit-1.21.11-1.4.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/sit-1.21.11-1.4.jar"
+        },
+        {
+            "name": "sodium-neoforge-0.8.13+mc1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/sodium-neoforge-0.8.13+mc1.21.11.jar"
+        },
+        {
+            "name": "sophisticatedbackpacks-1.21.11-3.25.78.2029.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/sophisticatedbackpacks-1.21.11-3.25.78.2029.jar"
+        },
+        {
+            "name": "sophisticatedcore-1.21.11-1.4.86.2197.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/sophisticatedcore-1.21.11-1.4.86.2197.jar"
+        },
+        {
+            "name": "spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/spawnanimations-v1.11.5-mc1.17-26.2.9-mod.jar"
+        },
+        {
+            "name": "stackable-item-1.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/stackable-item-1.0.jar"
+        },
+        {
+            "name": "Stellarity-5.5.4.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/Stellarity-5.5.4.jar"
+        },
+        {
+            "name": "TerraBlender-neoforge-1.21.11-21.11.0.0.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/TerraBlender-neoforge-1.21.11-21.11.0.0.jar"
+        },
+        {
+            "name": "Terralith_1.21.11_v2.6.1_Neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/Terralith_1.21.11_v2.6.1_Neoforge.jar"
+        },
+        {
+            "name": "trek-B0.6.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/trek-B0.6.2.jar"
+        },
+        {
+            "name": "t_and_t-fabric-neoforge-1.13.9.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/t_and_t-fabric-neoforge-1.13.9.jar"
+        },
+        {
+            "name": "variantsandventures-neoforge-1.0.26+mc1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/variantsandventures-neoforge-1.0.26+mc1.21.11.jar"
+        },
+        {
+            "name": "veinminer-enchant-2.11.2+1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/veinminer-enchant-2.11.2+1.21.11.jar"
+        },
+        {
+            "name": "veinminer-neoforge-2.11.2+1.21.11.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/veinminer-neoforge-2.11.2+1.21.11.jar"
+        },
+        {
+            "name": "worldedit-mod-7.4.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/worldedit-mod-7.4.2.jar"
+        },
+        {
+            "name": "worldweaver-21.11.5.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/worldweaver-21.11.5.jar"
+        },
+        {
+            "name": "wunderlib-21.11.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/wunderlib-21.11.2.jar"
+        },
+        {
+            "name": "xaeroworldmap-neoforge-1.21.11-1.44.2.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/xaeroworldmap-neoforge-1.21.11-1.44.2.jar"
+        },
+        {
+            "name": "yet_another_config_lib_v3-3.8.2+1.21.11-neoforge.jar",
+            "url": "https://raw.githubusercontent.com/stekkooo/Tamerina-3-/main/mods/yet_another_config_lib_v3-3.8.2+1.21.11-neoforge.jar"
         }
     ]
 }
